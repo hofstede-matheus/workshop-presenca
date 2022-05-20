@@ -1,6 +1,6 @@
 # workshop-presenca
 
-- [ ] hofs
+- [x] hofs
 - [ ] aliciaengcomp
 - [ ] amanda.monteiro
 - [ ] anamonicaccosta
