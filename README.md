@@ -7,7 +7,7 @@
 - [ ] andressaanjos1000
 - [ ] bianca_cristina_brito
 - [ ] biancascerni
-- [ ] dailneide.ribeiro
+- [x] dailneide.ribeiro
 - [ ] fabicardoso19ufpa
 - [ ] fantiny.santos
 - [ ] fayga.reis
