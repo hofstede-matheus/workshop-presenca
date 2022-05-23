@@ -26,5 +26,5 @@
 - [ ] maduferreira1509
 - [ ] naynarasouza13
 - [ ] pinageisabellaa
-- [ ] sarahcabral2013
+- [x] sarahcabral2013
 - [ ] silvadocarmogabriela
