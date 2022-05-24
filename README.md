@@ -18,7 +18,7 @@
 - [ ] harterynicole
 - [ ] iacaroboticaufpa
 - [ ] isabrioli
-- [ ] jullyane.nunes
+- [x] jullyane.nunes
 - [ ] karyna.silva
 - [ ] lpinheiro.correa
 - [ ] luanda.rodrigues
