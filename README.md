@@ -1,7 +1,7 @@
 # workshop-presenca
 
 - [x] hofs
-- [ ] aliciaengcomp
+- [x] aliciaengcomp
 - [ ] amanda.monteiro
 - [ ] anamonicaccosta
 - [ ] andressaanjos1000
