@@ -9,7 +9,7 @@
 - [ ] biancascerni
 - [x] dailneide.ribeiro
 - [ ] fabicardoso19ufpa
-- [ ] fantiny.santos
+- [x] fantiny.santos
 - [ ] fayga.reis
 - [ ] feliciane.silva
 - [ ] gaa.quel12
